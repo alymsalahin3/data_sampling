@@ -1,0 +1,4 @@
+classes = 7
+Validation = data/Validation.txt
+names = data/obj.names
+backup = backup/
