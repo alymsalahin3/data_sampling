@@ -35,3 +35,7 @@ src/core
 wandb/
 runs/
 nextvit/
+
+
+data/
+sampled_data/
